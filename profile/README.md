@@ -3,7 +3,7 @@
 We are excited to welcome you to our community.
 
 <p align="center">
-    <img src="images/arlas_osm.png" width="80%">
+    <img src="../images/arlas_osm.png" width="80%">
 </p>
 
 People who have adopted ARLAS are benefiting from:
@@ -17,7 +17,7 @@ We would be happy to hear about your project. Please see more details below.
 # Gisaïa
 
 <p align="center">
-    <img src="images/logo-gisaia.png" width="15%">
+    <img src="../images/logo-gisaia.png" width="15%">
 </p>
 
 We are a technology company that offers robust solutions for geoanalytics. We help decision makers who want to implement data-driven decision strategies.
@@ -27,7 +27,7 @@ To accelerate this, we built the ARLAS stack, an open source software technology
 # ARLAS
 
 <p align="center">
-    <img src="images/logo-arlas.png" width="40%">
+    <img src="../images/logo-arlas.png" width="40%">
 </p>
 
 ## Introduction
@@ -38,7 +38,7 @@ ARLAS is an open source platform for exploring huge volumes of spatio-temporal d
 - a large set of widgets that highlight categorical and numerical distibutions of your data
 
 <p align="center">
-    <img src="images/explo_overview.gif" width="80%">
+    <img src="../images/explo_overview.gif" width="80%">
 </p>
 
 For more information about what ARLAS can do, check out [ARLAS' doc](https://docs.arlas.io/introduction-arlas/).
@@ -57,7 +57,7 @@ There are a few tutorials available, that can be found in the following reposito
 # For developers
 
 <p align="center">
-    <img src="images/arlas_stack.png" width="60%">
+    <img src="../images/arlas_stack.png" width="60%">
 </p>
 
 1.  [ARLAS-wui](https://github.com/gisaia/ARLAS-wui) is composed of a set of highly interactive & reusable analytic components : MapCompoent, HistogramComponent, ...
@@ -78,5 +78,6 @@ There are a few tutorials available, that can be found in the following reposito
 
 - [Gisaïa](https://gisaia.com/)
 - [ARLAS](https://www.arlas.io/)
+- [Demo](https://cloud.arlas.io/arlas/wui/hub/)
 - [ARLAS doc](https://docs.arlas.io/introduction-arlas/)
 - [ARLAS brochure](https://gisaia.com/wp-content/uploads/2023/03/Brochure-GIS-Expert-Print-version-3.pdf)
